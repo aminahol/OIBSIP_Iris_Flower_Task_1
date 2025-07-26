@@ -1,6 +1,6 @@
-# OIBSIP
+# Iris Flower Classification
 Oasis InfoByte Internship | Task 1
-Iris Flower Classification
+
 
 
 ## Objective
